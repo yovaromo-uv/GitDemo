@@ -8,7 +8,6 @@ package model;
  *
  * @author Admin
  */
-public class Proffesor {
-    private int id;
-    private String name;
+public class Enrollment {
+    
 }
